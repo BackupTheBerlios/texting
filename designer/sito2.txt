@@ -1,0 +1,31 @@
+function main(){
+
+writeln("Vitejte ve skriptu pro Erastothenovo sito.");
+writeln("Zadejte nejake to cislo, do ktereho se maji hledat prvocisla.");
+write("Mooooc velke please: ");
+$cislo = readln();
+writeln();
+writeln("Zacinam pocitat prvocisla do ".$cislo);
+writeln();
+
+writeln("Inicializuji pole.");
+
+for ($i = 2; $i <= $cislo; ++$i) $pole[$i] = 1;
+
+write("Pocitam hodnoty.");
+
+for ($i = 2; $i <= $cislo / 2; ++$i)
+  if ($pole[$i])
+    for ($j = $i+$i; $j <= $cislo; $j = $j + $i) $pole[$j] = 0;
+
+writeln();
+writeln("Vysledek:");
+writeln();
+
+for ($i = 2; $i <= $cislo; ++$i)
+  if ($pole[$i]) write($i . ", ");
+
+writeln();
+readln();
+
+};

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcsstatus version="1.0">
+  <file status="niw">.cvsignore</file>
+  <file status="niw">Noname</file>
+  <file status="niw">TeXting</file>
+  <file status="niw">TeXting Designer-linux</file>
+  <file status="niw">TeXting Designer.html</file>
+  <file status="niw">TeXting Designer.jar</file>
+  <file status="niw">TeXting Designer.jpx</file>
+  <file status="niw">TeXting Designer.jpx.local</file>
+  <file status="niw">TeXting Designer.jpx.local~</file>
+  <file status="niw">TeXting Designer2.exe</file>
+  <file status="niw">TeXting Designer2.jar</file>
+  <file status="niw">TeXting.exe</file>
+  <file status="niw">sito.txt</file>
+  <file status="niw">sito2.txt</file>
+  <file status="niw">src/texting_designer/Dizajnr.java</file>
+  <file status="niw">src/texting_designer/Frame1.java</file>
+  <file status="niw">src/texting_designer/Frame2.java</file>
+  <file status="niw">src/texting_designer/Frame2_AboutBox.java</file>
+  <file status="niw">src/texting_designer/GUI.java</file>
+  <file status="niw">src/texting_designer/OpenFile.java</file>
+  <file status="niw">src/texting_designer/SaveFile.java</file>
+  <file status="niw">src/texting_designer/TextFile.java</file>
+  <file status="niw">src/texting_designer/about.png</file>
+  <file status="niw">src/texting_designer/closeFile.png</file>
+  <file status="niw">src/texting_designer/help.png</file>
+  <file status="niw">src/texting_designer/openFile.png</file>
+  <file status="niw">tmp.txt</file>
+</vcsstatus>
